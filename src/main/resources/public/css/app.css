@@ -1,0 +1,10 @@
+body {
+    background: url('/wallhaven-18586.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.select{
+    background-color: #ddd;
+    height: 34px;
+    width: 240px;
+}
